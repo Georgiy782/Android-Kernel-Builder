@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "agate-Android14",
-      "repo": "https://github.com/AbzRaider/kernel_xiaomi_agate",
-      "branch": "dev/android-14",
+      "repo": "https://github.com/qishisinuo70/kernel_xiaomi_agate",
+      "branch": "dev-android-14",
       "device": "agate_user"
     },
     "withKernelSU": false,
