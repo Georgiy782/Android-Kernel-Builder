@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "agate-Android14",
-      "repo": "https://github.com/qishisinuo70/kernel_xiaomi_agate",
-      "branch": "dev-android-14",
-      "device": "agate_user"
+      "name": "chopin-Android14",
+      "repo": "https://github.com/noticesax/android_kernel_xiaomi_chopin",
+      "branch": "r-oss",
+      "device": "chopin_user"
     },
     "withKernelSU": false,
     "toolchains": [
