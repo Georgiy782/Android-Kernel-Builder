@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "chopin-Android14",
-      "repo": "https://github.com/noticesax/android_kernel_xiaomi_chopin",
-      "branch": "r-oss",
-      "device": "chopin_user"
+      "name": "check",
+      "repo": "https://github.com/kerneltoast/android_kernel_google_floral",
+      "branch": "11.0.0-sultan",
+      "device": "floral"
     },
     "withKernelSU": false,
     "toolchains": [
