@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "check",
-      "repo": "https://github.com/kerneltoast/android_kernel_google_floral",
+      "repo": "https://github.com/Georgiy782/android_kernel_google_floral",
       "branch": "11.0.0-sultan",
       "device": "floral"
     },
